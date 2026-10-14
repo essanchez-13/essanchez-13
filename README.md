@@ -1,0 +1,20 @@
+### Hi, I'm Esteban 👋
+
+RPA Developer and Software Engineering student at Universidad CENFOTEC, based in Costa Rica. At work I build enterprise automations (UiPath, Power Automate, Snowflake, QuickBase). Outside of work I build software I actually use.
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Trazo**](https://github.com/essanchez-13/Trazo) | Desktop handwriting notebook app with a pressure-sensitive ink engine, shape recognition, PDF annotation and auto-updates. I use it daily · [Download](https://github.com/essanchez-13/trazo-releases/releases/latest) | Electron, React, TypeScript, Canvas |
+| [**Inventory & Delivery System**](https://github.com/essanchez-13/inventory-delivery-system) | Store inventory on a binary search tree, priority-queue checkout, Dijkstra delivery routing | Java, data structures |
+| [**Physics Portfolio**](https://github.com/essanchez-13/physics-portfolio) | Interactive site linking mechanics to real software, with simulations and charts · [Live](https://essanchez-13.github.io/physics-portfolio/) | JavaScript, Chart.js, KaTeX |
+| [**ChoneTec website**](https://www.chonetec.com) | Company landing page with a custom domain, dark mode and a strict CSP | React, Vite, Vercel |
+
+### Tools I work with
+
+**Automation:** UiPath (Studio, Orchestrator) · Power Automate · Power Apps · Dataverse
+**Data:** Snowflake · SQL · QuickBase · Power BI · Alteryx
+**Code:** JavaScript / TypeScript · React · Node.js · Electron · Java · C# · VB.NET · Git
+
+📫 [LinkedIn](https://www.linkedin.com/in/esteban-sanchez-33037a333) · essz0604@gmail.com
